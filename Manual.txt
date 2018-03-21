@@ -1,0 +1,13 @@
+Use Python 2.7 for running all the files.
+1st run datasetcreator.py
+it will create the dataset and load it into sqlite database
+while giving input
+enter id:1
+enter name:"Sayantan" //name give in " "
+enter age:22
+enter gender:"M" //gender give in " "
+
+after that run trainer.py to train the images
+for id=1, 2 and so on images will be trained
+
+finally run detector.py
